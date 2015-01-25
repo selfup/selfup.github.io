@@ -97,6 +97,20 @@ ul.nav, .jumbotron h1 {
 
 }
 
+@media (max-width: 1199px) {
+  .jumbotron p {
+    font-size: 46px
+    margin-bottom: 30px;
+  }
+
+}
+
+@media (max-device-width: 1024px) {
+  .jumbotron {
+    poisiton: fixed;
+  }
+}
+
 @media (max-width: 991px) {
   .jumbotron h1 {
     font-size: 36px;
