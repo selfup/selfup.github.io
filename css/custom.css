@@ -17,6 +17,7 @@ ul.nav, .jumbotron h1 {
   background-repeat: no-repeat;
   background-attachment: fixed !important;
   background-position: center;
+  background-size: cover !important;
   color: white;
 }
 
