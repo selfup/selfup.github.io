@@ -41,4 +41,11 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
       }
 
       - The fix was: "background-size: cover !important;"
-        -This makes it a bit large, but it looks fine for now
+
+        - This makes it a bit large, but it looks fine for now
+
+--Update 4:
+
+    Fixed All issues! Page load is acceptable on Phones.
+      - Great on iPad/Nexus 7/MacBook (Air, Pro)/Linux Laptop/Windows Laptop
+        - Getting the hang of this!
