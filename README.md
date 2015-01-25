@@ -14,3 +14,9 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Reverted to simple black background for Mobile Devices. Safari has trouble rendering the paragraph text.
     Background still weird in landscape mode, however potrait mode works fine on the iPad (text still has some issues)
       - Will find a fix for this soon
+
+--Update2:
+
+    Fixed Font Issue!
+    Still working on Image Issue
+      - Messing around with media queries
