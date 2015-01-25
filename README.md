@@ -12,7 +12,7 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
 --Update:
 
     Reverted to simple black background for Mobile Devices. Safari has trouble rendering the paragraph text.
-    Background still weird in landscape mode, however potrait mode works fine on the iPad (text still has some issues)
+    Background still weird in landscape mode, however potrait mode works fine on the iPad (text still has issues)
       - Will find a fix for this soon
 
 --Update2:
