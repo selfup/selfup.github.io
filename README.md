@@ -6,5 +6,5 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
 
 --Current Known Bugs:
 
-    Safari on iPad Air 2 (This might be an issue with all iOS8 devices)
+    Safari on iPad Air 2 (This might be an issue with all iOS8 devices using Safari)
        - Background Image will not properly display
