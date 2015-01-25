@@ -20,3 +20,25 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Fixed Font Issue!
     Still working on Image Issue
       - Messing around with media queries
+
+--Update3:
+
+    Fixed Background Issue with Safari on iPad Air 2
+    Picture is a bit huge/blurry but it will do for now :)
+      - Still debating if I should keep black backgrounds for phones or not
+
+      .jumbotron {
+        text-align: center;
+        position: relative;
+        height: 100%;
+        background-image: url("../images/selfupdiv3.jpg");
+        background-color: black;
+        background-repeat: no-repeat;
+        background-attachment: fixed !important;
+        background-position: center;
+        background-size: cover !important;
+        color: white;
+      }
+
+      - The fix was: "background-size: cover !important;"
+        -This makes it a bit large, but it looks fine for now
