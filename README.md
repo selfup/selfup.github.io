@@ -1,6 +1,6 @@
 This is my first GitHub Pages Website!
 
-I created the background images, wrote a lot (90%) of the HTML and all of the Custom CSS.
+I created the background images, wrote a lot (90%) of the HTML, and all of the Custom CSS.
 
 I used Bootstrap and Font Awesome to make my website a bit more modern and very responsive.
 
@@ -12,7 +12,7 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
 --Update:
 
     Reverted to simple black background for Mobile Devices. Safari has trouble rendering the paragraph text.
-    Background still weird in landscape mode, however potrait mode works fine on the iPad (text still has issues)
+    Background still weird in landscape mode, however portrait mode works fine on the iPad (text still has issues)
       - Will find a fix for this soon
 
 --Update2:
@@ -46,6 +46,7 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
 
 --Update 4:
 
-    Fixed All issues! Page load is acceptable on Phones.
+    Enhanced background image
+    Fixed all issues! Page load is good across all devices.
       - Great on iPad/Nexus 7/MacBook (Air, Pro)/Linux Laptop/Windows Laptop
         - Getting the hang of this!
