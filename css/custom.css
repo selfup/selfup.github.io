@@ -8,6 +8,10 @@ ul.nav, .jumbotron h1 {
 	font-family: 'Arvo', courier, serif;
 }
 
+.navbar a {
+  margin: 10px;
+}
+
 .jumbotron {
   text-align: center;
   position: relative;
