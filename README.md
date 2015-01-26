@@ -4,7 +4,7 @@ I created the background images, wrote a lot (90%) of the HTML, and all of the C
 
 I used Bootstrap and Font Awesome to make my website a bit more modern and very responsive.
 
---Current Known Bugs: (As of Update 4 - None!)
+--Current Known Bugs: (As of Update 4 - None!) 
 
     Safari on iPad Air 2 (This might be an issue with all iOS8 devices using Safari)
        - Background Image will not properly display
