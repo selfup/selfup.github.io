@@ -52,3 +52,10 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Fixed all issues! Page load is good across all devices.
       - Great on iPad/Nexus 7/MacBook (Air, Pro)/Linux Laptop/Windows Laptop
         - Getting the hang of this!
+
+--Update 5:
+
+    Changed NavBar to be more "App" like
+    Used pastel/neon colors to make it obvious
+    Works GREAT on phones
+    Might use a different icon set but for now this is great
