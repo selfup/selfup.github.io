@@ -1,6 +1,6 @@
 This is my first GitHub Pages Website!
 
-Works on 4k monitors and Phones. Very wide range!
+Works on 4k monitors or Mobile. Very wide range!
 
 I created the background images, wrote a lot (90%) of the HTML, and all of the Custom CSS.
 
