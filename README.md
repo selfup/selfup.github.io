@@ -61,3 +61,8 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Used pastel/neon colors to make it obvious
     Works GREAT on phones
     Might use a different icon set but for now this is great
+
+--Update 6:
+
+    Changed Navbar Icon Colors to match Website Theme
+    Added some text in .jumbotron paragraph text
