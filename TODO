@@ -1,17 +1,7 @@
 To do tomorrow:
 
-  Hover Effect for Nav bar Buttons
-      - Drop Down Words on Hover
-          -Home
-          -Social
-          -Portfolio
-          -Me
+Remove Unused CSS for better page load time
+Set dimensions for footer pic
+Run Audit using Dev Tools again and reduce page load times
 
-  Change Colors of Icons to Match Theme
-      -Colors
-          -Red
-          -Beige
-          -Orange
-          -Yellow
 
-          As of, 1/27/2015 @ ~10:00 AM, Icon changes have been made.
