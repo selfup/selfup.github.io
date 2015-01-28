@@ -68,6 +68,8 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Added some text in .jumbotron paragraph text
 
 --Update 7: Ran into merge conflict after doing a major update 
+        - ALWAYS SYNC PRIOR TO MAKING CHANGES
+        -Lessoned learned LOL
 
 --Update 8: Fixed Merge conflict! 
 
