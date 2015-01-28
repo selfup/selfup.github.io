@@ -69,11 +69,12 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
 
 --Update 7: Ran into merge conflict after doing a major update 
 
-    ALWAYS SYNC PRIOR TO MAKING CHANGES
+    ALWAYS SYNC prior to making changes
     Lessoned learned LOL
 
 --Update 8: Fixed Merge conflict! 
 
---Update 9: Navigation improvements, No more blank spcae between footer and "Portfolio"
+--Update 9: Navigation improvements
 
-    -Also removed unused CSS
+    No more blank space between footer and "Portfolio"
+    Also removed unused CSS
