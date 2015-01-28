@@ -66,3 +66,10 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
 
     Changed Navbar Icon Colors to match Website Theme
     Added some text in .jumbotron paragraph text
+
+--Update 7: Ran into merge conflict after doing a major update 
+
+--Update 8: Fixed Merge conflict! 
+
+--Update 9: Navigation improvements, No more blank spcae between footer and "Portfolio"
+                -Also removed unused CSS
