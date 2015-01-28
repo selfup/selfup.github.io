@@ -75,4 +75,5 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
 --Update 8: Fixed Merge conflict! 
 
 --Update 9: Navigation improvements, No more blank spcae between footer and "Portfolio"
-                -Also removed unused CSS
+
+    -Also removed unused CSS
