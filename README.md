@@ -78,3 +78,9 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
 
     No more blank space between footer and "Portfolio"
     Also removed unused CSS
+    
+--Update 10: Got rid of blue colors/overuse of white color
+
+    No more blue
+    Warmed everything up
+    Got rid of Portfolio Header and changed Github/Excel icons to Red
