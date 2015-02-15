@@ -5,7 +5,7 @@ body {
 }
 
 ul.nav, .jumbotron h1 {
-	font-family: 'Arvo', courier, serif;
+  font-family: 'Arvo', courier, serif;
 }
 
 .navbar a {
@@ -77,6 +77,10 @@ ul.nav, .jumbotron h1 {
   background-repeat: no-repeat;
   background-position: center;
   color: white;
+}
+
+.footer:hover {
+  opacity: 0.0;
 }
 
 .btn-lg {
