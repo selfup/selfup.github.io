@@ -84,3 +84,10 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     No more blue
     Warmed everything up
     Got rid of Portfolio Header and changed Github/Excel icons to Red
+
+--Update 11: Added a new section
+
+    Added a new section called "Content"
+    Linked it to the Cloud nav button
+    2 minimal websites and 1 phone background
+    SLowly building my portfolio
