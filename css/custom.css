@@ -17,7 +17,6 @@ ul.nav, .jumbotron h1 {
   position: relative;
   height: 100%;
   background-image: url("../images/cube.jpg");
-  -webkit-background-size: 1980px 1080px;
   background-color: black;
   background-repeat: no-repeat;
   background-attachment: fixed !important;
