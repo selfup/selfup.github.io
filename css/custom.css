@@ -89,6 +89,21 @@ ul.nav, .jumbotron h1 {
 
 /* Responsive Styling */
 
+@media (max-width: 1081px) {
+  .jumbotron {
+    text-align: center;
+    position: relative;
+    height: 100vh;
+    background-color: #C71C1C;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-attachment: fixed !important;
+    background-position: center;
+    background-size: cover !important;
+    color: white;
+  }
+}
+
 @media (max-width: 1199px) {
   .jumbotron p {
     font-size: 46px
