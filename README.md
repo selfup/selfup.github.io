@@ -2,7 +2,7 @@ This is my first GitHub Pages Website!
 
 Works on 4k monitors or Mobile. Very wide range!
 
-I created the background images, wrote a lot (90%) of the HTML, and all of the Custom CSS.
+I created the background images, wrote the HTML, and all of the Custom CSS.
 
 I used Bootstrap and Font Awesome to make my website a bit more modern and very responsive.
 
@@ -90,4 +90,12 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Added a new section called "Content"
     Linked it to the Cloud nav button
     2 minimal websites and 1 phone background
-    SLowly building my portfolio
+    Slowly building my portfolio
+    
+--Update 12: Added words to Nav Buttons
+
+    Also changed mobile background
+    Removed "Social" and "Content" Headers
+    Looks strange on iPad but oh well
+    Looks great on Mac/Android
+    Have not tested 4k yet
