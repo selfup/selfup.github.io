@@ -15,7 +15,7 @@ ul.nav, .jumbotron h1 {
 .jumbotron {
   text-align: center;
   position: relative;
-  height: 100%;
+  height: 100vh;
   background-image: url("../images/cube.jpg");
   background-color: black;
   background-repeat: no-repeat;
@@ -93,9 +93,9 @@ ul.nav, .jumbotron h1 {
   .jumbotron {
     text-align: center;
     position: relative;
-    height: 100%;
+    height: 100vh;
     background-color: #C71C1C;
-    background-image: none;
+    background-image: url("../images/mobileblur.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed !important;
     background-position: center;
