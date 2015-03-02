@@ -156,7 +156,7 @@ ul.nav, .jumbotron h1 {
   .footer {
     text-align: center;
     position: relative;
-    height: 100vh;
+    height: 100%;
     background-color: #FFAE00;
     background-image: none;
     background-repeat: no-repeat;
