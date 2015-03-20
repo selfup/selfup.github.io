@@ -39,8 +39,8 @@ ul.nav, .jumbotron h1 {
 .jumbotron2 {
   text-align: center;
   position: relative;
-  height: 100vh;
-  background-image: url("../images/cube2.jpg");
+  height: 700px;
+  background-image: url("../images/softBlur.jpg");
   background-color: black;
   background-repeat: no-repeat;
   background-attachment: fixed !important;
