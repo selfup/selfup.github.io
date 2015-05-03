@@ -13,6 +13,13 @@ ul.nav, .jumbotron h1 {
   margin-bottom: -6px;
 }
 
+.container a {
+    border-radius: 25px;
+    border-color: coral;
+    border-bottom-width: medium;
+    border-width: medium;
+}
+
 .jumbotron {
   text-align: center;
   position: relative;
@@ -111,6 +118,10 @@ ul.nav, .jumbotron h1 {
   background-size: cover !important;
   color: white;
 }
+
+.footer img {
+    border-radius: 565px;
+  }
 
 .footer:hover {
   opacity: 0.0;
