@@ -6,7 +6,7 @@ I created the background images, wrote the HTML, and all of the Custom CSS.
 
 I used Bootstrap and Font Awesome to make my website a bit more modern and very responsive.
 
---Update:
+--Update1:
 
     Reverted to simple black background for Mobile Devices
     Safari has trouble rendering the paragraph text
