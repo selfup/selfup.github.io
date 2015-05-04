@@ -117,7 +117,10 @@ ul.nav, .jumbotron h1 {
   background-position: center;
   background-size: cover !important;
   color: white;
-  text-decoration: none;
+}
+
+.footer:hover {
+  opacity: 0.0;
 }
 
 .footer img {
