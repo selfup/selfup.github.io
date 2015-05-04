@@ -6,11 +6,6 @@ I created the background images, wrote the HTML, and all of the Custom CSS.
 
 I used Bootstrap and Font Awesome to make my website a bit more modern and very responsive.
 
---Current Known Bugs: 
-
-    Safari on iPad Air 2 (This might be an issue with all iOS8 devices using Safari)
-       - Background Image will not properly display
-
 --Update:
 
     Reverted to simple black background for Mobile Devices
