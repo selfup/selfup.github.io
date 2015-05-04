@@ -100,6 +100,7 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Made site a bit fresher
     No square vs. round
     Everything has similar design language
+    Works great on iPad!
     
 --Update 14: 
 
