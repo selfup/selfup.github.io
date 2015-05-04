@@ -6,7 +6,7 @@ I created the background images, wrote the HTML, and all of the Custom CSS.
 
 I used Bootstrap and Font Awesome to make my website a bit more modern and very responsive.
 
---Current Known Bugs: (As of Update 4 - None!)
+--Current Known Bugs: 
 
     Safari on iPad Air 2 (This might be an issue with all iOS8 devices using Safari)
        - Background Image will not properly display
@@ -99,3 +99,15 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Looks strange on iPad but oh well
     Looks great on Mac/Android
     Have not tested 4k yet
+    
+--Update 13: Chenged Bootstrap "btn" appearance
+
+    Made site a bit fresher
+    No square vs. round
+    Everything has similar design language
+    
+--Update 14: 
+
+    Footer will dissapear until I can fix:
+    The copyright text being underlined 
+    when mouse is in the footer div
