@@ -117,15 +117,12 @@ ul.nav, .jumbotron h1 {
   background-position: center;
   background-size: cover !important;
   color: white;
+  text-decoration: none;
 }
 
 .footer img {
     border-radius: 565px;
   }
-
-.footer:hover {
-  opacity: 0.0;
-}
 
 .btn-lg {
   font-size: 28px;
