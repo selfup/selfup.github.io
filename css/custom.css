@@ -75,7 +75,6 @@ ul.nav, .jumbotron h1 {
   text-align: center;
 }
 
-
 .container h2 {
   color: gray;
   font-family: 'Arvo', Courier, serif;
@@ -117,10 +116,6 @@ ul.nav, .jumbotron h1 {
   background-position: center;
   background-size: cover !important;
   color: white;
-}
-
-.footer:hover {
-  opacity: 0.0;
 }
 
 .footer img {
@@ -193,7 +188,6 @@ ul.nav, .jumbotron h1 {
   }
 
 }
-
 
 @media (max-width: 991px) {
   .jumbotron h1 {
