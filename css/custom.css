@@ -9,6 +9,7 @@ ul.nav, .jumbotron h1 {
 }
 
 .navbar a {
+  text-decoration: none;
   margin: 2px;
   margin-bottom: -6px;
 }
