@@ -107,3 +107,9 @@ I used Bootstrap and Font Awesome to make my website a bit more modern and very 
     Footer will dissapear until I can fix:
     The copyright text being underlined 
     when mouse is in the footer div
+
+--Update 15:
+
+    Footer does no dissapear anymore
+    First two background images are real life but blurred out
+    Fixed underlining nav buttons
