@@ -1,6 +1,0 @@
-To do today:
-
-Set up alternate webpage locally
-Sync all changes from repo prior to making a commit
-
-Add link to climbSpec in Portfolio Website.
