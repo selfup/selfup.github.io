@@ -6,7 +6,7 @@ var deleteIdea = () => {
     let $idea = $(event.toElement)
     $.ajax({
       type: 'DELETE',
-      url: 'http://intelyzine.com/api/v1/ideas' + $idea.attr('idea-id'),
+      url: '/api/v1/ideas' + $idea.attr('idea-id'),
       success: () => {
         $idea.parent().remove()
       },

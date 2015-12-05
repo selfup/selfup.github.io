@@ -32,7 +32,7 @@ var renderIdeas = (idea) => {
 }
 
 var enumIdeas = () => {
-  $.getJSON( "http://intelyzine.com/api/v1/ideas", function( data ) {
+  $.getJSON( "/api/v1/ideas", function( data ) {
       data.sort(function(a, b) {return a.id - b.id}).forEach( (idea) => {
         renderIdeas(idea)
     })
@@ -44,7 +44,7 @@ var sorterFlag = true
 var enumQuality = () => {
   $('#sort-quality').click( () => {
   clearIdeas()
-    $.getJSON( "http://intelyzine.com/api/v1/ideas", function( data ) {
+    $.getJSON( "/api/v1/ideas", function( data ) {
       if (sorterFlag) {
         data.sort(function(a, b) {return a.quality < b.quality}).forEach( (idea) => {
           renderIdeas(idea)
@@ -61,7 +61,7 @@ var enumQuality = () => {
 }
 
 var loadIdeas = (event) => {
-  $.getJSON('http://intelyzine.com/api/v1/ideas')
+  $.getJSON('/api/v1/ideas')
     .then(enumIdeas())
   	.fail((data) => { alert('Something Went Wrong!') })
 }

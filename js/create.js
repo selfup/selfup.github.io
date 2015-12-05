@@ -9,7 +9,7 @@ var newIdea = () => {
     event.preventDefault()
     $.ajax({
        method: "POST",
-       url: "http://intelyzine.com/api/v1/ideas",
+       url: "/api/v1/ideas",
        data: {
                 title: ideaTitle(),
                 body: ideaBody()

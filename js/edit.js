@@ -40,7 +40,7 @@ var updateTitle = (event) => {
   var $title = $idea.text()
   $.ajax({
       type: 'PATCH',
-      url: 'http://intelyzine.com/api/v1/ideas' + $idea.attr('idea-id'),
+      url: '/api/v1/ideas' + $idea.attr('idea-id'),
       data: { title: $title },
       success: function(){
         console.log("Success")
@@ -62,7 +62,7 @@ var updateBody = (event) => {
   var $body = $idea.text()
   $.ajax({
       type: 'PATCH',
-      url: 'http://intelyzine.com/api/v1/ideas/' + $idea.attr('idea-id'),
+      url: '/api/v1/ideas/' + $idea.attr('idea-id'),
       data: { body: $body },
       success: function(){
         console.log("Success")

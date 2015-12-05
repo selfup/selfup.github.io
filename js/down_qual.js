@@ -7,7 +7,7 @@ var downgradeQuality = () => {
     let qualityName     = $idea.attr('quality-value')
     $.ajax({
       type: 'PATCH',
-      url: 'http://intelyzine.com/api/v1/ideas' + qualityUpdateId,
+      url: '/api/v1/ideas' + qualityUpdateId,
       data: {
               quality: thumbsDown(
                 qualityArray,
