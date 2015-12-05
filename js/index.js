@@ -32,7 +32,7 @@ var renderIdeas = (idea) => {
 }
 
 var enumIdeas = () => {
-  $.getJSON( "/api/v1/ideas", function( data ) {
+  $.getJSON( "http://intelyzine.com/api/v1/ideas", function( data ) {
       data.sort(function(a, b) {return a.id - b.id}).forEach( (idea) => {
         renderIdeas(idea)
     })
@@ -61,7 +61,7 @@ var enumQuality = () => {
 }
 
 var loadIdeas = (event) => {
-  $.getJSON('/api/v1/ideas')
+  $.getJSON('http://intelyzine.com/api/v1/ideas')
     .then(enumIdeas())
   	.fail((data) => { alert('Something Went Wrong!') })
 }
