@@ -30,7 +30,7 @@ ul.nav, .jumbotron h1 {
   text-align: center;
   position: relative;
   height: 100vh;
-  background-color: #ea5252;
+  background-image: linear-gradient(90deg, #4F364C, #ea5252);
   background-repeat: no-repeat;
   background-attachment: fixed !important;
   background-position: center;
