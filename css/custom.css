@@ -20,10 +20,10 @@ ul.nav, .jumbotron h1 {
 }
 
 .container a {
-    border-radius: 0px;
-    border-color: coral;
-    border-bottom-width: medium;
-    border-width: medium;
+  border-radius: 0px;
+  border-color: coral;
+  border-bottom-width: medium;
+  border-width: medium;
 }
 
 .jumbotron {
@@ -122,21 +122,19 @@ ul.nav, .jumbotron h1 {
 }
 
 .footer img {
-    border-radius: 100%;
-  }
+  border-radius: 100%;
+}
 
 .btn-lg {
   font-size: 28px;
 }
 
 /* Responsive Styling */
-
 @media (max-width: 1199px) {
   .jumbotron p {
     font-size: 46px
     margin-bottom: 30px;
   }
-
 }
 
 @media (max-width: 1199px) {
@@ -144,7 +142,6 @@ ul.nav, .jumbotron h1 {
     font-size: 46px
     margin-bottom: 30px;
   }
-
 }
 
 @media (max-width: 991px) {
@@ -152,7 +149,6 @@ ul.nav, .jumbotron h1 {
     font-size: 36px;
     margin-bottom: 30px;
   }
-
 }
 
 @media (max-width: 767px) {
@@ -160,7 +156,6 @@ ul.nav, .jumbotron h1 {
     font-size: 26px;
     margin-bottom: 30px;
   }
-
 }
 
 @media (max-width: 467px) {
@@ -168,7 +163,6 @@ ul.nav, .jumbotron h1 {
     font-size: 26px;
     margin-bottom: 30px;
   }
-
 }
 
 @media (max-width: 467px) {
@@ -176,7 +170,6 @@ ul.nav, .jumbotron h1 {
     font-size: 16px;
     margin-bottom: 30px;
   }
-
 }
 
 @media (max-width: 767px) {
@@ -184,7 +177,6 @@ ul.nav, .jumbotron h1 {
     font-size: 26px;
     margin-bottom: 30px;
   }
-
 }
 
 @media (max-width: 367px) {
@@ -195,5 +187,4 @@ ul.nav, .jumbotron h1 {
   .jumbotron {
     background-position: center;
   }
-
 }
