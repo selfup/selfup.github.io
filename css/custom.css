@@ -2,10 +2,11 @@
 body {
   padding-top: 50px;
   background-color: #FFF4AD;
+  font-family: courier, serif;
 }
 
 ul.nav, .jumbotron h1 {
-  font-family: 'Arvo', courier, serif;
+  font-family: courier, serif;
 }
 
 .navbar a {
@@ -14,8 +15,12 @@ ul.nav, .jumbotron h1 {
   margin-bottom: -6px;
 }
 
+.navbar h5 {
+  font-family: courier, serif;
+}
+
 .container a {
-    border-radius: 25px;
+    border-radius: 0px;
     border-color: coral;
     border-bottom-width: medium;
     border-width: medium;
@@ -25,8 +30,7 @@ ul.nav, .jumbotron h1 {
   text-align: center;
   position: relative;
   height: 100vh;
-  background-image: url("../images/okla11.jpg");
-  background-color: black;
+  background-color: #ea5252;
   background-repeat: no-repeat;
   background-attachment: fixed !important;
   background-position: center;
@@ -48,8 +52,7 @@ ul.nav, .jumbotron h1 {
   text-align: center;
   position: relative;
   height: 500px;
-  background-image: url("../images/softBlur.jpg");
-  background-color: black;
+  background-color: #D2B48C;
   background-repeat: no-repeat;
   background-attachment: fixed !important;
   background-position: center;
@@ -110,8 +113,7 @@ ul.nav, .jumbotron h1 {
   position: relative;
   height: 450px;
   margin-top: -30px;
-  background-image: url("../images/selfupdiv1.jpg");
-  background-color: black;
+  background-color: #F58B56;
   background-repeat: no-repeat;
   background-attachment: fixed !important;
   background-position: center;
