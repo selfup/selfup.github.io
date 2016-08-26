@@ -33,7 +33,6 @@ ul.nav, .jumbotron h1 {
   background-image: url('../images/portfolio_pic.jpg');
 
   background-repeat: no-repeat;
-  /*background-attachment: fixed !important;*/
   background-position: center;
   background-size: cover !important;
   color: white;
