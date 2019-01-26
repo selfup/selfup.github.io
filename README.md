@@ -12,4 +12,4 @@ https://github.com/selfup/selfup.github.io
 
 ### Dev repo
 
-https:/gitlab.com/selfup/selfup.gitlab.io
+https://gitlab.com/selfup/selfup.gitlab.io
