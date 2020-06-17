@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/selfup
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://selfup.me
+  * I am selfup (https://keybase.io/selfup) on keybase.
+  * I have a public key ASCvNNoluU2UU_QY0xcD4ylqJFS7q1Mmz3tYO8uEMtbtXwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101eb1fc27ec71cd4b4810d93b1976fe3e31b32f7a776170af94fe0dbd54b6e005a0a",
+      "host": "keybase.io",
+      "kid": "0120af34da25b94d9453f418d31703e3296a2454bbab5326cf7b583bcb8432d6ed5f0a",
+      "uid": "2aeb853b6df108eca8f9c602e573bd19",
+      "username": "selfup"
+    },
+    "merkle_root": {
+      "ctime": 1592358018,
+      "hash": "15510eacecf61d16becda166d1af29b619c33775b9c23c6aa85e0f1d6aa17616adfd9c079295b9f832e7ef6c6ee6b5348000222324e5c5ed19351733922869b4",
+      "hash_meta": "3563f96303a58c7e5da87dd6fb39f10839df631d060f9612fe3eb814e40987ae",
+      "seqno": 16689086
+    },
+    "service": {
+      "entropy": "RTbcv8Nnxzx1F/pPBVtf5tS7",
+      "hostname": "selfup.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1592358037,
+  "expire_in": 504576000,
+  "prev": "175f24bb00e2b64a321aeda9df6b23418dfedcbdf2cf2eab60cff2ce415e9826",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrzTaJblNlFP0GNMXA+MpaiRUu6tTJs97WDvLhDLW7V8Kp3BheWxvYWTESpcCCcQgF18kuwDitkoyGu2p32sjQY3+3L3yzy6rYM/yzkFemCbEIKsMcnH0BKmhUPkv5AId4KY3/U1eFZ14alq8+2qHI1cQAgHCo3NpZ8RAPOiZcv/DI/24OXS+GygbK3UCnL
+1mEd45y0MUjoOKgRjld3FQSKP0WimGF+on3ptqxfFo6+uWJzLx4L2Q+X4xCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHhwHh5d11P6+K+8GiHuO4TAHA9rHZoMnofuVVnnoXAHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/selfup
+
+==================================================================
