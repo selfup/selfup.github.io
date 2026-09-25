@@ -4,4 +4,8 @@ _Copyright © 2019-2026 Regis Jean-Pierre Boudinot. All Rights Reserved_
 
 # My portfolio website
 
+https://selfup.me/
+
+https://selfup.github.io/
+
 Back to basics. No need for fancy stuff
